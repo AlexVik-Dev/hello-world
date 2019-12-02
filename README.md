@@ -1,4 +1,4 @@
 # hello-world
-My first repository
+My first repository on GitHub
 
-I like Java, I like Android!
+I love :coffee: :pizza: and :dancer:.
